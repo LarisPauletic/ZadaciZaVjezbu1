@@ -1,0 +1,7 @@
+C:\Users\Laris\source\repos\ZadaciZaVjezbu1\ZadaciZaVjezbu1\bin\Debug\ZadaciZaVjezbu1.exe.config
+C:\Users\Laris\source\repos\ZadaciZaVjezbu1\ZadaciZaVjezbu1\bin\Debug\ZadaciZaVjezbu1.exe
+C:\Users\Laris\source\repos\ZadaciZaVjezbu1\ZadaciZaVjezbu1\bin\Debug\ZadaciZaVjezbu1.pdb
+C:\Users\Laris\source\repos\ZadaciZaVjezbu1\ZadaciZaVjezbu1\obj\Debug\ZadaciZaVjezbu1.csprojAssemblyReference.cache
+C:\Users\Laris\source\repos\ZadaciZaVjezbu1\ZadaciZaVjezbu1\obj\Debug\ZadaciZaVjezbu1.csproj.CoreCompileInputs.cache
+C:\Users\Laris\source\repos\ZadaciZaVjezbu1\ZadaciZaVjezbu1\obj\Debug\ZadaciZaVjezbu1.exe
+C:\Users\Laris\source\repos\ZadaciZaVjezbu1\ZadaciZaVjezbu1\obj\Debug\ZadaciZaVjezbu1.pdb
